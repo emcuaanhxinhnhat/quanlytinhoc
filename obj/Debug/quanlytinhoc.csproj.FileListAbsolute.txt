@@ -1,0 +1,12 @@
+D:\LapTrinhC#\quanlytinhoc\bin\Debug\quanlytinhoc.exe.config
+D:\LapTrinhC#\quanlytinhoc\bin\Debug\quanlytinhoc.exe
+D:\LapTrinhC#\quanlytinhoc\bin\Debug\quanlytinhoc.pdb
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.csprojAssemblyReference.cache
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.frmMains.resources
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.Properties.Resources.resources
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.csproj.GenerateResource.cache
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.csproj.CoreCompileInputs.cache
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.exe
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.pdb
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.frmNghenghiep.resources
+D:\LapTrinhC#\quanlytinhoc\obj\Debug\quanlytinhoc.frmCoquan.resources
